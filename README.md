@@ -11,4 +11,4 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-### Icons taken from https://heroicons.com/ for their JSX ready SVG's
+### Icons taken from https://heroicons.com/ (JSX ready SVG's)
